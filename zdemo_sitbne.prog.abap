@@ -6,4 +6,4 @@
 REPORT ZDEMO_SITBNE.
 
 
-write: / 'Version 1'.
+write: / 'Version 2'.
